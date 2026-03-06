@@ -1,0 +1,6 @@
+@OrdenesAPI_HostAddress = http://localhost:5007
+
+GET {{OrdenesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
